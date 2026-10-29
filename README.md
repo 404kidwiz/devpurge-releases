@@ -15,7 +15,7 @@ Requires macOS 14 or later. Unlimited scans and 3 cleanups free; $19 one-time li
 These builds are not yet notarized by Apple, so macOS blocks the first launch.
 After dragging DevPurge to Applications:
 
-1. Open DevPurge once. macOS says it can't verify the developer. Click **Done**.
+1. Open DevPurge once. macOS says it can't verify the developer. Dismiss the warning.
 2. Open **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to DevPurge.
 3. Confirm with your password. Later launches open normally.
 
